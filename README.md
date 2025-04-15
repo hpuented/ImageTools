@@ -1,4 +1,4 @@
-# ImageTools
+# 🛠️ ImageTools
 
 This repository contains a set of image processing functions written in Python.
 
