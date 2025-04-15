@@ -10,7 +10,7 @@ class Correlation:
     parent.title = "Correlation" 
     parent.categories = ["Examples"]
     parent.dependencies = []
-    parent.contributors = ["Carla Garcia Gallego", "Helena Puente Diaz", "Marta Rodrigo Sebastian"] 
+    parent.contributors = [""] 
     parent.helpText = """
     Se calcula la correlacion entre dos imagenes.
     """
